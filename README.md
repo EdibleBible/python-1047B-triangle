@@ -1,4 +1,4 @@
-# python-1047B-triangle
+# Codeforces 1047B
 https://codeforces.com/problemset/problem/1047/B
 
 Description: 
